@@ -1,6 +1,7 @@
 # code-and-exercises
 Repository for code and exercises
 
-## 7장 실습 파일
+## 실습 파일
 
 - [7장 link](https://wokwi.com/projects/462414714974945281)
+- [8장 link](https://wokwi.com/projects/463046794253645825)
